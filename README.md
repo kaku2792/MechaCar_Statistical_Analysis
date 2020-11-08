@@ -17,7 +17,7 @@
 
 # D2: Summary Statistics on Suspension Coils
 
-# The current manufacturing data meets this design specification for all manufacturing lots in total. According to the results (Figure 4) shows that variance is 76.23 PSI, that is within requirements of not exceeding variance 100 PSI.
+# The current manufacturing data meets this design specification for all manufacturing lots in total. According to the results (Figure 2) shows that variance is 76.23 PSI, that is within requirements of not exceeding variance 100 PSI.
 
 # D3: T-Tests on Suspension Coils
 # To reject or fail to reject the null hypothesis the p-value will determine if there is a statistical difference between the observed sample mean and its presumed population mean. According to the result (Figure 3) p-value for all manufacturing lots is 0.5117, for lot 1 = 0.9048, for lot 2 = 0.3451, and for lot 3 = 0.637. In all cases p-value is above the assumed significance level of 0.05. We fail to reject the null hypothesis.
